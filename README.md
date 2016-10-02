@@ -1,6 +1,6 @@
 # Pump-it-Up
 
-The approach that get me into the 10% leaderboard of this Data Driven competition. 
+The approach that got me into the 7% leaderboard of this Data Driven competition. 
 
 Can you predict which water pumps are faulty?
 
